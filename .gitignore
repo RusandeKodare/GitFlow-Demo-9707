@@ -1,0 +1,18 @@
+# Node/Vue
+node_modules/
+dist/
+*.log
+.env
+
+# VS Code
+.vscode/
+
+# macOS and Windows
+.DS_Store
+Thumbs.db
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
